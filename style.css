@@ -146,6 +146,8 @@ a {
   color: inherit;
   position: relative;
   overflow: hidden;
+  font-family: inherit;
+  font-weight: 500;
 
   &:not([role="button"]):hover {
     color: blueviolet;
